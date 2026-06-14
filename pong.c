@@ -5,7 +5,7 @@
 #include <time.h>
 #include <unistd.h>
 
-/* ── Constants ─────────────────────────────────────── */
+/*constants */
 #define PADDLE_LEN 4
 #define WIN_SCORE 7
 #define BALL_DELAY_US 30000 /* microseconds per frame (~33 fps) */
